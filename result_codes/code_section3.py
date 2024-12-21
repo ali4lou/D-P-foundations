@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 29 10:59:09 2024
-
-@author: Alicia
-
 Section 2 -> PLEIOTROPY (pleio vs non pleio genes and relationship development and pleiotropy)
 """
 import scanpy as sc
