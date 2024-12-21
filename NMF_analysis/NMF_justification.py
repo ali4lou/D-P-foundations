@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 23 11:50:45 2024
-
-@author: Alicia
-
 NNMF justification 
 """
 
