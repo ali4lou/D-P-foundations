@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 21 10:26:54 2024
-
-@author: Alicia
-
 Phenotypic space -> matrix construction
 """
 
@@ -26,7 +22,7 @@ from sklearn.manifold import MDS
 from scipy.stats import pearsonr
 from sklearn.decomposition import NMF
 
-
+#It is needed to download great_library_phenotypes.py
 
 path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\phen_space\\'   
 
