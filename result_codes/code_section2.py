@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
+
 """
-Created on Wed Oct 23 10:06:31 2024
-
-@author: Alicia
-
-Section 1: D-P rule DEVIATIONS
+Section 2: D-P rule DEVIATIONS
 """
 import scanpy as sc
 import numpy as np 
