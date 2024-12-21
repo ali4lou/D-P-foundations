@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 21 10:26:54 2024
-
-@author: Alicia
-
 Developmental space -> matrix construction
-
 """
 
-#Vamos a analizar los datos del desarrollo desde el mismÃ­simo principio
-#en este programa y en funciones ordenadas early cell tengo todas las funciones necesarias
 import scanpy as sc
 import numpy as np 
 import pandas as pd
