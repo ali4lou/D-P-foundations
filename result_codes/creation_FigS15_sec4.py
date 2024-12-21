@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 27 18:44:46 2024
 
+"""
 Section 3 -> specific figures of components and cell types method relation
 """
 
