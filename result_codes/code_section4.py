@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 30 14:25:01 2024
-
-@author: Alicia
-
-Section 3 - Phen
+Section 3 - Phen association with cell types or embryo times
 """
 
 import scanpy as sc
