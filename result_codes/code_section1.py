@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
+
 """
-Created on Wed Oct 23 10:06:31 2024
-
-@author: Alicia
-
 Section 1: D-P rule
 """
 import scanpy as sc
@@ -20,6 +16,10 @@ from scipy.spatial.distance import pdist, squareform
 from scipy.stats import pearsonr, spearmanr
 from sklearn.metrics.pairwise import pairwise_distances
 
+"""
+path_save_data, path_dev, and path_phen 
+are the path that you chose after download the needed files
+"""
 
 path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section1\\'
 # path_save_data='D:\\DPrule\\D-P_rule_paper\\section1\\'
