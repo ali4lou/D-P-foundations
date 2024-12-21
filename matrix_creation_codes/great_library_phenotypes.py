@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 21 15:55:17 2024
-
-@author: Alicia
-
 Great library of phenotypes
 """
 
