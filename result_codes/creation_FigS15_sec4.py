@@ -34,13 +34,11 @@ def quality_control(adata):
     
     return adata
     
-# path_save_data='D:\\DPrule\\D-P_rule_paper\\section3\\'
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section3\\'
+
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
 #1.) Developmental data: cells x genes matrix
-
-# adata = anndata.read('D:\\atlas_gusanos_bien\\packer2019.h5ad')
-adata = anndata.read('C:\\Users\\logslab\\Desktop\\papeles alicia\\packer2019.h5ad')
+adata = anndata.read(path_dev+'packer2019.h5ad')
 adata #(cell x genes)
 
 adata=quality_control(adata)
@@ -83,12 +81,9 @@ del cell_type_without_slash, union_cell_type_all_cells
 
 
 #2.) We charge the data
-# path_dev='D:\\DPrule\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-# path_phen='D:\\DPrule\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-# path_pleio='D:\\DPrule\\D-P_rule_paper\\NNMF_justification\\'
-path_dev='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-path_phen='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-path_pleio='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\NNMF_justification\\'
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #2.1.) We read commmon genes
 f=open(path_dev+'genes_id.txt', 'r')
