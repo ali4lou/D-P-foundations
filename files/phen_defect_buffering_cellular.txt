@@ -1,0 +1,753 @@
+Gene name 	Wormbase ID 	Imaged 	Lineaged 	Phenotypes 	Required for cellular function
+abhd-11.2 	WBGene00011029 	Yes 	Yes 		
+abts-1 	WBGene00009920 	Yes 	Yes 		
+acdh-1 	WBGene00016943 	Yes 	Yes 	1 	Yes
+acdh-3 	WBGene00019433 	Yes 	Yes 		
+acin-1 	WBGene00016601 	Yes 	Yes 	1 	Yes
+acl-11 	WBGene00017888 	Yes 	Yes 		
+acox-1 (acox-1.1) 	WBGene00008564 	Yes 	Yes 	1 	Yes
+acs-13 	WBGene00022037 	Yes 	Yes 	1 	Yes
+adsl-1 	WBGene00011064 	Yes 	Yes 	4 	Yes, embryonic lethal
+afd-1 	WBGene00021009 	Yes 	Yes 	2 	Yes
+aha-1 	WBGene00000095 	Yes 	Yes 		
+ahcy-1 	WBGene00019322 	Yes 	Yes 	3 	Yes, embryonic lethal
+aho-3 	WBGene00045192 	Yes 	Yes 	3 	Yes
+akir-1 	WBGene00017088 	Yes 	Yes 		
+apb-3 	WBGene00000163 	Yes 	Yes 		
+apg-1 	WBGene00000158 	Yes 	Yes 	2 	Yes, embryonic lethal
+aph-1 	WBGene00000147 	Yes 	Yes 		
+aph-2 	WBGene00000148 	Yes 	Yes 		
+apm-1 	WBGene00000150 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+aps-3 	WBGene00000165 	Yes 	Yes 		
+arch-1 	WBGene00016621 	Yes 	Yes 	1 	Yes
+ari-1 (ari-1.1) 	WBGene00016158 	Yes 	Yes 		
+asd-2 	WBGene00006423 	Yes 	Yes 	3 	Yes, embryonic lethal
+aspm-1 	WBGene00008107 	Yes 	Yes 	6 	Yes, embryonic lethal
+atg-4.1 	WBGene00013595 	Yes 	Yes 		
+atg-5 	WBGene00022152 	Yes 	Yes 		
+atm-1 	WBGene00000227 	Yes 	Yes 	2 	Yes
+atp-3 	WBGene00000230 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+B0025.4 	WBGene00015001 	Yes 	Yes 		
+B0041.5 	WBGene00015009 	Yes 	Yes 	1 	Yes
+B0205.6 (nfs-1) 	WBGene00015021 	Yes 	Yes 	3 	Yes, embryonic lethal
+B0207.6 	WBGene00015029 	Yes 	Yes 	4 	Yes, embryonic lethal
+B0261.1 	WBGene00015091 	Yes 	Yes 	3 	Yes
+B0511.12 	WBGene00015237 	Yes 	Yes 	1 	Yes
+B0511.13 (mppe-1) 	WBGene00015238 	Yes 	Yes 		
+B0511.6 	WBGene00015232 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+B0511.7 	WBGene00015233 	Yes 	Yes 	2 	Yes
+bli-4 	WBGene00000254 	Yes 	Yes 	1 	Yes
+blmp-1 	WBGene00003847 	Yes 	Yes 		
+bub-1 	WBGene00000275 	Yes 	Yes 	4 	Yes, embryonic lethal
+C01A2.4 	WBGene00007216 	Yes 	Yes 		
+C06A5.3 	WBGene00015501 	Yes 	Yes 	1 	Yes
+C09D4.4 	WBGene00015635 	Yes 	Yes 		
+C10H11.8 (mlst-8) 	WBGene00015697 	Yes 	Yes 	2 	Yes
+C15C6.4 (popl-4) 	WBGene00007603 	Yes 	Yes 		
+C16C2.4 	WBGene00007621 	Yes 	Yes 		
+C17E4.6 	WBGene00007645 	Yes 	Yes 		
+C18E3.5 (snrp-40.2) 	WBGene00015974 	Yes 	Yes 	1 	Yes
+C25A1.1 	WBGene00007705 	Yes 	Yes 		
+C25A1.4 (sup-46) 	WBGene00007706 (WBGene00045383) 	Yes 	Yes 		
+C25A1.5 (fath-1) 	WBGene00007707 	Yes 	Yes 		
+C27A12.2 (szy-5) 	WBGene00016154 	Yes 	Yes 		
+C27A12.6 (ari-1.3) 	WBGene00016156 	Yes 	Yes 		
+C27A12.7 (ari-1.2) 	WBGene00016157 	Yes 	Yes 		
+C27A12.9 (pigo-1) 	WBGene00016159 	Yes 	Yes 		
+C30F12.1 (rege-1) 	WBGene00016260 	Yes 	Yes 		
+C30F12.2 	WBGene00016261 	Yes 	Yes 	4 	Yes
+C30H7.2 (erp-44.1) 	WBGene00016278 	Yes 	Yes 	1 	Yes
+C32E8.5 (pmlr-1) 	WBGene00016323 	Yes 	Yes 		
+C32E8.9 	WBGene00016325 	Yes 	Yes 	1 	Yes
+C34B2.10 (spcs-1) 	WBGene00016395 	Yes 	Yes 	3 	Yes, embryonic lethal
+C34B2.6 (lonp-1) 	WBGene00016391 	Yes 	Yes 		
+C34B2.8 	WBGene00016393 	Yes 	Yes 	1 	Yes, embryonic lethal
+C34B7.2 (figo-1) 	WBGene00007912 	Yes 	Yes 		
+C37A2.6 	WBGene00016492 	Yes 	Yes 		
+C37A2.7 	WBGene00016493 	Yes 	Yes 		
+C41D11.3 	WBGene00016562 	Yes 	Yes 		
+C43E11.9 	WBGene00016607 	Yes 	Yes 		
+C44E4.1 (ubr-4) 	WBGene00016650 	Yes 	Yes 		
+C44E4.5 	WBGene00016654 	Yes 	Yes 		
+C45G3.3 (lipt-1) 	WBGene00001590 	Yes 	Yes 		
+C47B2.2 	WBGene00008131 	Yes 	Yes 		
+C48B6.2 	WBGene00016740 	Yes 	Yes 	4 	Yes, embryonic lethal
+C50F2.3 (syf-1) 	WBGene00016837 	Yes 	Yes 	6 	Yes, embryonic lethal
+C53D5.1 	WBGene00016902 	Yes 	Yes 		
+C53D5.5 	WBGene00016906 	Yes 	Yes 		
+C53H9.2 	WBGene00016907 	Yes 	Yes 	1 	Yes
+calm-1 	WBGene00009260 	Yes 	Yes 		
+car-1 	WBGene00012484 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+cars-1 	WBGene00000800 	Yes 	Yes 	1 	Yes, embryonic lethal
+cas-2 	WBGene00015975 	Yes 	Yes 		
+ccb-1 	WBGene00000368 	Yes 	Yes 		
+cco-1 (cox-5B) 	WBGene00000371 	Yes 	Yes 	2 	Yes
+ccpp-1 	WBGene00018995 	Yes 	Yes 	1 	Yes
+cdc-25.1 	WBGene00000386 	Yes 	Yes 	6 	Yes, embryonic lethal
+cdc-48.3 	WBGene00010562 	Yes 	Yes 	3 	Yes, embryonic lethal
+cdc-5L 	WBGene00008386 	Yes 	Yes 	6 	Yes, embryonic lethal
+cdc-7 	WBGene00016421 	Yes 	Yes 	4 	Yes
+cdk-8 	WBGene00000409 	Yes 	Yes 	1 	Yes
+cdk-9 	WBGene00000410 	Yes 	Yes 	4 	Yes, embryonic lethal
+cdt-1 	WBGene00000413 	Yes 	Yes 	4 	Yes, embryonic lethal
+cebp-2 	WBGene00016754 	Yes 	Yes 	1 	Yes
+ced-1 	WBGene00000415 	Yes 	Yes 		
+ced-12 	WBGene00000426 	Yes 	Yes 	1 	Yes
+ceh-45 	WBGene00022837 	Yes 	Yes 		
+ceh-6 	WBGene00000431 	Yes 	Yes 		
+cel-1 	WBGene00000466 	Yes 	Yes 	6 	Yes, embryonic lethal
+ces-1 	WBGene00000468 	Yes 	Yes 		
+ces-2 	WBGene00000469 	Yes 	Yes 	2 	Yes
+cey-2 	WBGene00000473 	Yes 	Yes 	6 	Yes, embryonic lethal
+cey-3 	WBGene00000474 	Yes 	Yes 	2 	Yes
+cfim-1 	WBGene00009668 	Yes 	Yes 		
+chaf-2 	WBGene00022141 	Yes 	Yes 	4 	Yes, embryonic lethal
+chd-1 	WBGene00010369 	Yes 	Yes 		
+chd-7 	WBGene00007053 	Yes 	Yes 	3 	Yes
+chn-1 	WBGene00000500 	Yes 	Yes 		
+chp-1 	WBGene00000502 	Yes 	Yes 	4 	Yes, embryonic lethal
+cir-1 	WBGene00018892 	Yes 	Yes 	6 	Yes, embryonic lethal
+cogc-3 	WBGene00022121 	Yes 	Yes 		
+cogc-5 	WBGene00016608 	Yes 	Yes 		
+copa-1 	WBGene00022119 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+coq-1 	WBGene00000761 	Yes 	Yes 		
+cpb-3 	WBGene00000772 	Yes 	Yes 		
+cpd-1 	WBGene00019074 	Yes 	Yes 		
+cpz-1 	WBGene00000788 	Yes 	Yes 		
+crml-1 	WBGene00010641 	Yes 	Yes 		
+crn-1 	WBGene00000794 	Yes 	Yes 	4 	Yes, embryonic lethal
+csnk-1 	WBGene00013709 	Yes 	Yes 	6 	Yes, embryonic lethal
+ctg-1 	WBGene00010370 	Yes 	Yes 		
+ctn-1 	WBGene00000832 	Yes 	Yes 	1 	Yes
+cup-2 	WBGene00000843 	Yes 	Yes 		
+cyc-1 	WBGene00000869 	Yes 	Yes 	3 	Yes, embryonic lethal
+cye-1 	WBGene00000871 	Yes 	Yes 	6 	Yes, embryonic lethal
+D1007.15 	WBGene00017010 	Yes 	Yes 	1 	Yes
+D1007.5 (tmem-39) 	WBGene00017003 	Yes 	Yes 		
+D1037.1 	WBGene00017025 	Yes 	Yes 		
+D1081.9 (zhp-2) 	WBGene00008387 	Yes 	Yes 	1 	Yes
+D2005.3 	WBGene00008398 	Yes 	Yes 	3 	Yes, embryonic lethal
+D2030.2 	WBGene00008412 	Yes 	Yes 	1 	Yes
+D2030.4 	WBGene00008414 	Yes 	Yes 	4 	Yes, embryonic lethal
+dad-1 	WBGene00000896 	Yes 	Yes 	1 	Yes, embryonic lethal
+daf-16 	WBGene00000912 	Yes 	Yes 		
+daf-25 	WBGene00000917 	Yes 	Yes 	1 	Yes
+daf-8 	WBGene00000904 	Yes 	Yes 		
+dapk-1 	WBGene00003400 	Yes 	Yes 	2 	Yes
+dbr-1 	WBGene00000937 	Yes 	Yes 		
+dcp-66 	WBGene00000938 	Yes 	Yes 	4 	Yes
+dhc-1 	WBGene00000962 	Yes 	Yes 		Yes, embryonic lethal
+dhfr-1 	WBGene00007974 	Yes 	Yes 	1 	Yes
+dhhc-3 	WBGene00018009 	Yes 	Yes 		
+dhod-1 	WBGene00020932 	Yes 	Yes 	2 	Yes
+dhp-1 	WBGene00000963 	Yes 	Yes 		
+dhs-3 	WBGene00000967 	Yes 	Yes 		
+dhs-4 	WBGene00000968 	Yes 	Yes 	6 	Yes, embryonic lethal
+did-2 	WBGene00017735 	Yes 	Yes 	3 	Yes, embryonic lethal
+dip-2 	WBGene00017885 	Yes 	Yes 		
+dkf-1 	WBGene00012352 	Yes 	Yes 		
+dnc-6 	WBGene00021827 	Yes 	Yes 		
+dnj-21 	WBGene00001039 	Yes 	Yes 	3 	Yes, embryonic lethal
+dnj-28 	WBGene00001046 	Yes 	Yes 		
+dnj-30 	WBGene00001048 	Yes 	Yes 		
+dnj-4 	WBGene00001022 	Yes 	Yes 		
+dod-18 	WBGene00008316 	Yes 	Yes 	1 	Yes
+dog-1 	WBGene00001049 	Yes 	Yes 		
+dot-1.1 	WBGene00021474 	Yes 	Yes 		
+dpf-3 	WBGene00001056 	Yes 	Yes 	1 	Yes
+drh-3 	WBGene00008400 	Yes 	Yes 	5 	Yes, embryonic lethal
+drsh-1 	WBGene00009163 	Yes 	Yes 	5 	Yes
+dut-1 	WBGene00010609 	Yes 	Yes 	4 	Yes, embryonic lethal
+dxbp-1 	WBGene00013128 	Yes 	Yes 	6 	Yes, embryonic lethal
+dyb-1 	WBGene00001115 	Yes 	Yes 		
+dylt-1 	WBGene00008764 	Yes 	Yes 		
+E01A2.5 (dph-6) 	WBGene00017087 	Yes 	Yes 		
+E03H4.8 	WBGene00008476 	Yes 	Yes 	4 	Yes
+eaf-1 	WBGene00017011 	Yes 	Yes 		
+ears-1 	WBGene00001337 	Yes 	Yes 	4 	Yes, embryonic lethal
+eat-16 	WBGene00001145 	Yes 	Yes 	1 	Yes
+eef-2 	WBGene00001167 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+egl-30 	WBGene00001196 	Yes 	Yes 		
+eif-3.C 	WBGene00001226 	Yes 	Yes 	3 	Yes, embryonic lethal
+eif-3.E 	WBGene00001228 	Yes 	Yes 	4 	Yes, embryonic lethal
+eif-3.H 	WBGene00001231 	Yes 	Yes 	4 	Yes, embryonic lethal
+eif-6 	WBGene00001234 	Yes 	Yes 	2 	Yes, embryonic lethal
+ekl-4 	WBGene00013676 	Yes 	Yes 		
+elpc-1 	WBGene00022463 	Yes 	Yes 	3 	Yes
+ent-6 	WBGene00009499 	Yes 	Yes 		
+ercc-1 	WBGene00008665 	Yes 	Yes 		
+eri-7 	WBGene00016566 	Yes 	Yes 		
+erm-1 	WBGene00001333 	Yes 	Yes 		
+ero-1 	WBGene00001334 	Yes 	Yes 	1 	Yes
+eva-1 	WBGene00009304 	Yes 	Yes 	2 	Yes
+exo-3 	WBGene00001372 	Yes 	Yes 		
+exoc-7 	WBGene00016606 	Yes 	Yes 		
+exoc-8 	WBGene00013687 	Yes 	Yes 		
+exos-3 	WBGene00010325 	Yes 	Yes 	3 	Yes
+F02E9.7 	WBGene00008531 	Yes 	Yes 		
+F10G8.8 	WBGene00008666 	Yes 	Yes 		
+F13G3.6 	WBGene00008766 	Yes 	Yes 		
+F13G3.7 	WBGene00008767 	Yes 	Yes 		
+F15D3.6 	WBGene00008856 	Yes 	Yes 		
+F16A11.1 	WBGene00008876 	Yes 	Yes 		
+F22D6.2 	WBGene00009050 	Yes 	Yes 		
+F22G12.4 	WBGene00009064 	Yes 	Yes 		
+F23C8.5 	WBGene00017734 	Yes 	Yes 		
+F25H2.12 	WBGene00009123 	Yes 	Yes 		
+F25H2.4 	WBGene00009118 	Yes 	Yes 		
+F25H2.6 	WBGene00009120 	Yes 	Yes 		
+F26A3.1 	WBGene00009140 	Yes 	Yes 	1 	Yes
+F26A3.7 	WBGene00009145 	Yes 	Yes 		
+F26B1.2 (hrpk-1) 	WBGene00017816 	Yes 	Yes 	4 	Yes
+F26E4.7 	WBGene00009162 	Yes 	Yes 	1 	Yes
+F26H9.2 	WBGene00009174 	Yes 	Yes 		
+F26H9.5 	WBGene00009177 	Yes 	Yes 	4 	Yes
+F27D4.1 	WBGene00009187 	Yes 	Yes 	1 	Yes
+F27D4.4 	WBGene00009189 	Yes 	Yes 		
+F27D4.7 	WBGene00009191 	Yes 	Yes 	1 	Yes
+F28B3.5 (mfsd-13.1) 	WBGene00017886 	Yes 	Yes 		
+F30A10.3 	WBGene00009262 	Yes 	Yes 		
+F30A10.9 	WBGene00009266 	Yes 	Yes 	3 	Yes
+F31C3.3 	WBGene00009285 	Yes 	Yes 	1 	Yes
+F31C3.4 (zipt-1) 	WBGene00009286 	Yes 	Yes 		
+F32A7.4 (metl-17) 	WBGene00009305 	Yes 	Yes 		
+F33D11.10 	WBGene00018007 	Yes 	Yes 	4 	Yes, embryonic lethal
+F33H2.2 	WBGene00009366 	Yes 	Yes 	1 	Yes
+F33H2.3 	WBGene00009367 	Yes 	Yes 		
+F33H2.6 	WBGene00009369 	Yes 	Yes 		
+F36A2.2 	WBGene00009452 	Yes 	Yes 		
+F36A2.9 	WBGene00009456 	Yes 	Yes 		
+F37F2.2 	WBGene00018159 	Yes 	Yes 	1 	Yes
+F39B2.3 	WBGene00009554 	Yes 	Yes 		
+F39H11.1 	WBGene00009565 	Yes 	Yes 	1 	Yes
+F39H2.3 	WBGene00009563 	Yes 	Yes 		
+F43G9.12 	WBGene00009672 	Yes 	Yes 	4 	Yes, embryonic lethal
+F43G9.3 (slc-25A42) 	WBGene00009666 	Yes 	Yes 		
+F45H11.5 (cox-19) 	WBGene00009745 	Yes 	Yes 		
+F46F11.1 	WBGene00018508 	Yes 	Yes 		
+F52A8.5 (gcsh-2) 	WBGene00009918 	Yes 	Yes 		
+F52A8.6 (kbrl-1) 	WBGene00009919 	Yes 	Yes 		
+F52B5.3 	WBGene00009922 	Yes 	Yes 		
+F53F10.1 	WBGene00018763 	Yes 	Yes 		
+F53F10.2 	WBGene00018764 	Yes 	Yes 	2 	Yes
+F54D7.2 (ept-1) 	WBGene00018797 	Yes 	Yes 	3 	Yes
+F55A3.3 (spt-16) 	WBGene00018849 	Yes 	Yes 	4 	Yes, embryonic lethal
+F55F8.2 	WBGene00018890 	Yes 	Yes 		
+F55F8.3 	WBGene00018891 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+F57B10.5 (tmed-3) 	WBGene00019003 	Yes 	Yes 	4 	Yes
+F57B10.9 (spg-20) 	WBGene00019006 	Yes 	Yes 	1 	Yes
+F59A3.4 (zipt-11) 	WBGene00019077 	Yes 	Yes 		
+F59C6.12 	WBGene00044251 	Yes 	Yes 		
+F59C6.5 	WBGene00010326 	Yes 	Yes 	2 	Yes, embryonic lethal
+fars-1 	WBGene00001497 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+fasn-1 	WBGene00009342 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+fbp-1 	WBGene00001404 	Yes 	Yes 		
+fce-1 	WBGene00001405 	Yes 	Yes 		
+fcp-1 	WBGene00009479 	Yes 	Yes 	4 	Yes, embryonic lethal
+fdps-1 	WBGene00011058 	Yes 	Yes 	4 	Yes, embryonic lethal
+fhod-1 	WBGene00016735 	Yes 	Yes 		
+fkb-5 	WBGene00001430 	Yes 	Yes 	1 	Yes, embryonic lethal
+fkb-7 	WBGene00001432 	Yes 	Yes 		
+fkb-8 	WBGene00001433 	Yes 	Yes 		
+frm-1 	WBGene00001488 	Yes 	Yes 		
+frm-4 	WBGene00001491 	Yes 	Yes 	1 	Yes
+ftn-2 	WBGene00001501 	Yes 	Yes 		
+gcy-28 	WBGene00020131 	Yes 	Yes 		
+gei-17 	WBGene00001574 	Yes 	Yes 		
+gfi-2 	WBGene00001582 	Yes 	Yes 		
+gld-1 	WBGene00001595 	Yes 	Yes 	4 	Yes
+gld-2 	WBGene00001596 	Yes 	Yes 	4 	Yes, embryonic lethal
+glrx-10 	WBGene00021331 	Yes 	Yes 		
+gna-2 	WBGene00001647 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+goa-1 	WBGene00001648 	Yes 	Yes 	2 	Yes, embryonic lethal
+gon-2 	WBGene00001651 	Yes 	Yes 	4 	Yes, embryonic lethal
+gpb-2 	WBGene00001680 	Yes 	Yes 		
+gpc-2 	WBGene00001682 	Yes 	Yes 	1 	Yes
+gpi-1 	WBGene00013597 	Yes 	Yes 	4 	Yes, embryonic lethal
+grh-1 	WBGene00001707 	Yes 	Yes 	1 	Yes
+gsa-1 	WBGene00001745 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+gsk-3 	WBGene00001746 	Yes 	Yes 	4 	Yes, embryonic lethal
+gst-43 	WBGene00001791 	Yes 	Yes 	2 	Yes
+guk-1 	WBGene00020190 	Yes 	Yes 	2 	Yes
+haf-6 	WBGene00001816 	Yes 	Yes 	1 	Yes
+hasp-1 	WBGene00007258 	Yes 	Yes 	1 	Yes
+hcp-6 	WBGene00001833 	Yes 	Yes 	4 	Yes, embryonic lethal
+herc-1 	WBGene00021685 	Yes 	Yes 		
+hex-4 	WBGene00021766 	Yes 	Yes 		
+hgo-1 	WBGene00001843 	Yes 	Yes 	1 	Yes
+him-1 	WBGene00001860 	Yes 	Yes 	6 	Yes, embryonic lethal
+hinf-1 	WBGene00009553 	Yes 	Yes 		
+hint-1 	WBGene00009002 	Yes 	Yes 	1 	Yes
+hlh-16 	WBGene00001960 	Yes 	Yes 		
+hlh-2 	WBGene00001949 	Yes 	Yes 	4 	Yes, embryonic lethal
+hmbx-1 	WBGene00018786 	Yes 	Yes 	1 	Yes
+hmg-20 	WBGene00012209 	Yes 	Yes 		
+hmp-2 	WBGene00001979 	Yes 	Yes 	6 	Yes, embryonic lethal
+hop-1 	WBGene00001985 	Yes 	Yes 	1 	Yes
+hpo-11 	WBGene00010427 	Yes 	Yes 	3 	Yes
+hpo-13 	WBGene00013670 	Yes 	Yes 		
+hpo-27 	WBGene00016418 	Yes 	Yes 		
+hpo-3 (gpaa-1) 	WBGene00018006 	Yes 	Yes 	1 	Yes
+hprt-1 	WBGene00013690 	Yes 	Yes 		
+hrdl-1 	WBGene00009164 	Yes 	Yes 		
+hrp-2 (hrpr-1) 	WBGene00002000 	Yes 	Yes 	3 	Yes
+hrpf-1 	WBGene00020936 	Yes 	Yes 	2 	Yes
+hsf-1 	WBGene00002004 	Yes 	Yes 	2 	Yes
+hsp-12.1 	WBGene00011906 	Yes 	Yes 		
+hsr-9 	WBGene00002027 	Yes 	Yes 		
+hum-1 	WBGene00002035 	Yes 	Yes 	1 	Yes
+hus-1 	WBGene00002042 	Yes 	Yes 		
+iars-2 	WBGene00002153 	Yes 	Yes 	1 	Yes
+icd-2 	WBGene00022042 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+idha-1 	WBGene00009664 	Yes 	Yes 	3 	Yes, embryonic lethal
+iftb-1 (eif-2beta) 	WBGene00010560 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+ile-1 	WBGene00002070 	Yes 	Yes 		
+imb-1 	WBGene00002075 	Yes 	Yes 	4 	Yes, embryonic lethal
+imb-3 	WBGene00002077 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+imp-1 	WBGene00007979 	Yes 	Yes 		
+impt-1 	WBGene00013122 	Yes 	Yes 		
+inst-1 (ints-1) 	WBGene00015499 	Yes 	Yes 	4 	Yes, embryonic lethal
+irx-1 	WBGene00007984 	Yes 	Yes 		
+jmjc-1 	WBGene00020902 	Yes 	Yes 	5 	Yes, embryonic lethal
+jph-1 	WBGene00002179 	Yes 	Yes 	1 	Yes
+K02B12.5 (tnsl-1) 	WBGene00010498 	Yes 	Yes 		
+K02B12.7 	WBGene00010500 	Yes 	Yes 		
+K04F10.7 	WBGene00019399 	Yes 	Yes 	1 	Yes
+K07A1.3 	WBGene00010610 	Yes 	Yes 		
+K07A1.9 (ate-1) 	WBGene00010615 	Yes 	Yes 		
+K07A12.1 	WBGene00010620 	Yes 	Yes 		
+K07A12.4 (hbs-1) 	WBGene00010622 	Yes 	Yes 	2 	Yes
+K09H9.2 (dscc-1) 	WBGene00019595 	Yes 	Yes 		
+K10C3.4 	WBGene00010731 	Yes 	Yes 	3 	Yes
+K11B4.2 (blos-9) 	WBGene00010767 	Yes 	Yes 		
+K11D2.5 (mter-4) 	WBGene00010771 	Yes 	Yes 	1 	Yes, embryonic lethal
+K12C11.1 	WBGene00019673 	Yes 	Yes 	2 	Yes
+kal-1 	WBGene00002181 	Yes 	Yes 		
+kin-10 	WBGene00002196 	Yes 	Yes 	4 	Yes, embryonic lethal
+kin-32 	WBGene00002213 	Yes 	Yes 		
+klp-15 	WBGene00002225 	Yes 	Yes 	6 	Yes, embryonic lethal
+klp-16 	WBGene00002226 	Yes 	Yes 	6 	Yes, embryonic lethal
+kpc-1 	WBGene00002232 	Yes 	Yes 		
+ksr-2 	WBGene00002240 	Yes 	Yes 		
+larp-5 	WBGene00004147 	Yes 	Yes 		
+lars-2 	WBGene00003074 	Yes 	Yes 	3 	Yes
+lbp-5 	WBGene00002257 	Yes 	Yes 	1 	Yes
+lbp-6 	WBGene00002258 	Yes 	Yes 	2 	Yes
+lem-3 	WBGene00002276 	Yes 	Yes 		
+let-355 	WBGene00020263 	Yes 	Yes 	2 	Yes
+let-381 	WBGene00002601 	Yes 	Yes 		
+let-49 	WBGene00002324 	Yes 	Yes 	4 	Yes
+let-504 	WBGene00002696 	Yes 	Yes 	1 	Yes
+let-526 	WBGene00002717 	Yes 	Yes 	6 	Yes, embryonic lethal
+let-607 	WBGene00002783 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+let-611 	WBGene00016750 	Yes 	Yes 		
+let-630 	WBGene00002804 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+lid-1 	WBGene00007711 	Yes 	Yes 		
+lin-28 	WBGene00003014 	Yes 	Yes 		
+lin-35 	WBGene00003020 	Yes 	Yes 	1 	Yes
+lin-41 	WBGene00003026 	Yes 	Yes 		
+lin-53 	WBGene00003036 	Yes 	Yes 	6 	Yes, embryonic lethal
+lin-61 	WBGene00003041 	Yes 	Yes 		
+lmd-1 	WBGene00009665 	Yes 	Yes 		
+lmn-1 	WBGene00003052 	Yes 	Yes 	6 	Yes, embryonic lethal
+lpd-2 	WBGene00003059 	Yes 	Yes 		
+lpd-3 	WBGene00003060 	Yes 	Yes 	3 	Yes
+lpd-5 	WBGene00003061 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+lpd-6 	WBGene00003062 	Yes 	Yes 		
+lrk-1 	WBGene00003068 	Yes 	Yes 		
+lsm-6 	WBGene00003080 	Yes 	Yes 	1 	Yes
+M01A10.1 (fubl-4) 	WBGene00019692 	Yes 	Yes 	3 	Yes
+M01E11.1 	WBGene00019710 	Yes 	Yes 		
+M01E11.2 (ctnb-1) 	WBGene00019711 	Yes 	Yes 		
+M01E5.2 	WBGene00010805 	Yes 	Yes 		
+M04F3.4 	WBGene00019770 	Yes 	Yes 	1 	Yes
+M04F3.5 	WBGene00019771 	Yes 	Yes 		
+M05B5.4 	WBGene00010872 	Yes 	Yes 	2 	Yes
+maco-1 	WBGene00017066 	Yes 	Yes 	1 	Yes
+mafr-1 	WBGene00016622 	Yes 	Yes 		
+mag-1 	WBGene00003123 	Yes 	Yes 	4 	Yes, embryonic lethal
+magu-3 	WBGene00016841 	Yes 	Yes 		
+mans-1 	WBGene00008411 	Yes 	Yes 	2 	Yes
+marc-3 	WBGene00007643 	Yes 	Yes 		
+mat-1 	WBGene00003132 	Yes 	Yes 	2 	Yes, embryonic lethal
+mau-2 	WBGene00003136 	Yes 	Yes 		
+mbtr-1 	WBGene00021661 	Yes 	Yes 	2 	Yes
+mce-1 	WBGene00008415 	Yes 	Yes 		
+mcm-4 	WBGene00003156 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+mcrs-1 	WBGene00010420 	Yes 	Yes 		
+mdt-18 	WBGene00007018 	Yes 	Yes 	3 	Yes
+mec-8 	WBGene00003172 	Yes 	Yes 		
+mex-3 	WBGene00003229 	Yes 	Yes 	4 	Yes, embryonic lethal
+mfap-1 	WBGene00009671 	Yes 	Yes 	4 	Yes, embryonic lethal
+mfb-1 	WBGene00008439 	Yes 	Yes 		
+mig-1 	WBGene00003238 	Yes 	Yes 		
+mppa-1 	WBGene00022159 	Yes 	Yes 		
+mrpl-13 	WBGene00008769 	Yes 	Yes 	4 	Yes
+mrpl-15 	WBGene00022373 	Yes 	Yes 	4 	Yes, embryonic lethal
+mrpl-17 	WBGene00021829 	Yes 	Yes 		
+mrpl-19 	WBGene00022470 	Yes 	Yes 	1 	Yes, embryonic lethal
+mrpl-24 	WBGene00019076 	Yes 	Yes 	4 	Yes, embryonic lethal
+mrpl-34 	WBGene00007712 	Yes 	Yes 		
+mrpl-47 	WBGene00015092 	Yes 	Yes 	3 	Yes
+msh-2 	WBGene00003418 	Yes 	Yes 		
+msh-6 	WBGene00003422 	Yes 	Yes 	2 	Yes
+mtcu-1 	WBGene00009557 	Yes 	Yes 		
+mtm-1 	WBGene00003475 	Yes 	Yes 		
+mtx-1 	WBGene00009559 	Yes 	Yes 		
+mus-101 	WBGene00009507 	Yes 	Yes 	4 	Yes
+mus-81 	WBGene00016602 	Yes 	Yes 		
+nab-1 	WBGene00003516 	Yes 	Yes 		
+nars-1 	WBGene00003815 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+nath-10 	WBGene00018866 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+ncbp-1 	WBGene00018156 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+ncbp-2 	WBGene00009141 	Yes 	Yes 	4 	Yes, embryonic lethal
+ndk-1 	WBGene00009119 	Yes 	Yes 		
+nduf-6 	WBGene00009051 	Yes 	Yes 	4 	Yes, embryonic lethal
+nduf-7 	WBGene00012376 	Yes 	Yes 	2 	Yes, embryonic lethal
+ndx-4 	WBGene00003581 	Yes 	Yes 		
+ndx-7 	WBGene00003584 	Yes 	Yes 	2 	Yes
+ned-8 	WBGene00003587 	Yes 	Yes 	4 	Yes, embryonic lethal
+ngp-1 	WBGene00003596 	Yes 	Yes 	2 	Yes, embryonic lethal
+nhr-23 	WBGene00003622 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+nhr-49 	WBGene00003639 	Yes 	Yes 		
+nhr-69 	WBGene00003659 	Yes 	Yes 		
+nhx-8 	WBGene00003735 	Yes 	Yes 		
+nkb-1 	WBGene00007646 	Yes 	Yes 	4 	Yes, embryonic lethal
+nmat-2 	WBGene00009176 	Yes 	Yes 		
+nmur-4 (trhr-1) 	WBGene00016265 	Yes 	Yes 		
+npp-12 	WBGene00003798 	Yes 	Yes 	5 	Yes, embryonic lethal
+npp-14 	WBGene00003800 	Yes 	Yes 		
+npp-2 	WBGene00003788 	Yes 	Yes 	6 	Yes, embryonic lethal
+nra-2 	WBGene00011488 	Yes 	Yes 		
+nrd-1 	WBGene00017004 	Yes 	Yes 	2 	Yes
+nsf-1 	WBGene00003818 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+nubp-1 	WBGene00008664 	Yes 	Yes 		
+nuo-2 	WBGene00020417 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+ola-1 	WBGene00012344 	Yes 	Yes 		
+otub-2 	WBGene00021733 	Yes 	Yes 	1 	Yes
+pab-1 	WBGene00003902 	Yes 	Yes 	1 	Yes
+pabp-2 	WBGene00003904 	Yes 	Yes 	4 	Yes, embryonic lethal
+pad-1 	WBGene00003905 	Yes 	Yes 	2 	Yes, embryonic lethal
+pamn-1 	WBGene00020556 	Yes 	Yes 		
+par-6 	WBGene00003921 	Yes 	Yes 	6 	Yes, embryonic lethal
+pars-2 	WBGene00004190 	Yes 	Yes 		
+pas-4 	WBGene00003925 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pas-5 	WBGene00003926 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pash-1 	WBGene00011908 	Yes 	Yes 		
+pat-10 	WBGene00003934 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pbrm-1 	WBGene00007042 	Yes 	Yes 		
+pbs-2 	WBGene00003948 	Yes 	Yes 	3 	Yes, embryonic lethal
+pbs-4 	WBGene00003950 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pbs-5 	WBGene00003951 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pbs-7 	WBGene00003953 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pcbd-1 	WBGene00020397 	Yes 	Yes 	1 	Yes
+pck-2 	WBGene00011232 	Yes 	Yes 		
+pdi-3 	WBGene00003964 	Yes 	Yes 		
+pdp-1 	WBGene00022832 	Yes 	Yes 		
+pfd-3 	WBGene00006889 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+pfd-6 	WBGene00009004 	Yes 	Yes 	4 	Yes, embryonic lethal
+pfkb-1.1 	WBGene00022456 	Yes 	Yes 		
+pgk-1 	WBGene00020185 	Yes 	Yes 	1 	Yes
+pgp-2 	WBGene00003996 	Yes 	Yes 		
+pgrn-1 	WBGene00011936 	Yes 	Yes 		
+pgs-1 	WBGene00021677 	Yes 	Yes 		
+phip-1 	WBGene00009455 	Yes 	Yes 		
+pif-1 	WBGene00004028 	Yes 	Yes 	1 	Yes
+pigv-1 	WBGene00020375 	Yes 	Yes 		
+plk-2 	WBGene00004043 	Yes 	Yes 	2 	Yes
+pmr-1 	WBGene00004063 	Yes 	Yes 		
+png-1 	WBGene00010160 	Yes 	Yes 		
+pnk-1 	WBGene00004068 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+pole-1 	WBGene00009368 	Yes 	Yes 	4 	Yes, embryonic lethal
+pop-1 	WBGene00004077 	Yes 	Yes 	6 	Yes, embryonic lethal
+ppfr-1 	WBGene00008878 	Yes 	Yes 		
+ppfr-2 	WBGene00017064 	Yes 	Yes 	1 	Yes
+ppk-1 	WBGene00004087 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+pqn-44 (tent-5) 	WBGene00004131 	Yes 	Yes 	1 	Yes
+prg-1 	WBGene00004178 	Yes 	Yes 		
+pri-2 	WBGene00004181 	Yes 	Yes 	3 	Yes, embryonic lethal
+prmt-7 	WBGene00012298 	Yes 	Yes 		
+prp-17 	WBGene00018625 	Yes 	Yes 	4 	Yes, embryonic lethal
+prp-31 	WBGene00022458 	Yes 	Yes 	4 	Yes, embryonic lethal
+prp-4 	WBGene00007972 	Yes 	Yes 	3 	Yes, embryonic lethal
+prpf-4 	WBGene00004186 	Yes 	Yes 	3 	Yes
+psf-2 	WBGene00009287 	Yes 	Yes 	6 	Yes, embryonic lethal
+ptps-1 	WBGene00015010 	Yes 	Yes 		
+ptr-2 	WBGene00004217 	Yes 	Yes 	3 	Yes, embryonic lethal
+ptr-21 	WBGene00004235 	Yes 	Yes 	1 	Yes
+ptr-23 	WBGene00004237 	Yes 	Yes 		
+R05D11.4 (ddx-52) 	WBGene00011032 	Yes 	Yes 		
+R06C7.6 	WBGene00011065 	Yes 	Yes 		
+R119.2 	WBGene00020088 	Yes 	Yes 		
+R119.5 	WBGene00020090 	Yes 	Yes 		
+R12E2.11 	WBGene00020036 	Yes 	Yes 		
+R12E2.13 	WBGene00020038 	Yes 	Yes 		
+rab-10 	WBGene00004273 	Yes 	Yes 	4 	Yes
+rab-11.1 	WBGene00004274 	Yes 	Yes 		Yes, embryonic lethal
+rab-5 	WBGene00004268 	Yes 	Yes 	4 	Yes, embryonic lethal
+rab-8 	WBGene00004272 	Yes 	Yes 	2 	Yes, embryonic lethal
+rad-54 (rad-54.L) 	WBGene00004298 	Yes 	Yes 		
+rad-8 	WBGene00044305 	Yes 	Yes 		
+rae-1 	WBGene00003803 	Yes 	Yes 	2 	Yes, embryonic lethal
+ran-4 	WBGene00004305 	Yes 	Yes 	4 	Yes, embryonic lethal
+rba-1 	WBGene00004312 	Yes 	Yes 	4 	Yes, embryonic lethal
+rbg-2 	WBGene00004318 	Yes 	Yes 	2 	Yes
+rbpl-1 	WBGene00009477 	Yes 	Yes 	4 	Yes, embryonic lethal
+rbx-2 	WBGene00019993 	Yes 	Yes 	1 	Yes
+rcor-1 	WBGene00022278 	Yes 	Yes 		
+rga-2 	WBGene00013135 	Yes 	Yes 		
+rig-5 	WBGene00004372 	Yes 	Yes 		
+rla-0 	WBGene00004408 	Yes 	Yes 	4 	Yes, embryonic lethal
+rnp-6 	WBGene00004389 	Yes 	Yes 		
+row-1 	WBGene00009508 	Yes 	Yes 		
+rpb-10 	WBGene00021347 	Yes 	Yes 	4 	Yes, embryonic lethal
+rpb-5 	WBGene00019246 	Yes 	Yes 	3 	Yes
+rpb-7 	WBGene00021845 	Yes 	Yes 	4 	Yes, embryonic lethal
+rpl-13 	WBGene00004425 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rpl-14 	WBGene00004426 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rpl-17 	WBGene00004429 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rpl-19 	WBGene00004431 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rpl-25.2 	WBGene00004439 	Yes 	Yes 	3 	Yes, embryonic lethal
+rpl-27 	WBGene00004441 	Yes 	Yes 	3 	Yes, embryonic lethal
+rpl-30 	WBGene00004444 	Yes 	Yes 	5 	Yes, embryonic lethal
+rpl-31 	WBGene00004445 	Yes 	Yes 	5 	Yes, embryonic lethal
+rpl-4 	WBGene00004415 	Yes 	Yes 	5 	Yes, embryonic lethal
+rpl-7 	WBGene00004418 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rpn-10 	WBGene00004466 	Yes 	Yes 		
+rpn-8 	WBGene00004464 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+rpoa-2 	WBGene00008781 	Yes 	Yes 	4 	Yes, embryonic lethal
+rpom-1 	WBGene00013680 	Yes 	Yes 	1 	Yes
+rps-10 	WBGene00004479 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rps-15 	WBGene00004484 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rps-17 	WBGene00004486 	Yes 	Yes 	4 	Yes, embryonic lethal
+rps-19 	WBGene00004488 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rps-20 	WBGene00004489 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rps-26 	WBGene00004495 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rps-6 	WBGene00004475 	Yes 	Yes 	2 	Yes, embryonic lethal
+rpt-5 	WBGene00004505 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+rskn-1 	WBGene00011352 	Yes 	Yes 		
+rsr-1 	WBGene00004706 	Yes 	Yes 		
+rtcb-1 	WBGene00008877 	Yes 	Yes 	1 	Yes
+rtel-1 	WBGene00009124 	Yes 	Yes 		
+sac-1 	WBGene00009264 	Yes 	Yes 		
+sacy-1 	WBGene00019245 	Yes 	Yes 	1 	Yes
+scpl-1 	WBGene00007054 	Yes 	Yes 		
+scpl-3 	WBGene00021629 	Yes 	Yes 	1 	Yes
+sdha-2 	WBGene00016392 	Yes 	Yes 		
+sec-12 	WBGene00010496 	Yes 	Yes 	5 	Yes, embryonic lethal
+sec-8 	WBGene00004753 	Yes 	Yes 		
+sem-2 	WBGene00004771 	Yes 	Yes 		
+sesn-1 	WBGene00022279 	Yes 	Yes 		
+set-10 	WBGene00009370 	Yes 	Yes 		
+set-18 	WBGene00044070 	Yes 	Yes 		
+sin-3 	WBGene00004117 	Yes 	Yes 		
+sir-2.4 	WBGene00004803 	Yes 	Yes 		
+skr-1 	WBGene00004807 	Yes 	Yes 	5 	Yes, embryonic lethal
+skr-2 	WBGene00004808 	Yes 	Yes 	5 	Yes, embryonic lethal
+slx-1 	WBGene00018909 	Yes 	Yes 		
+smd-1 	WBGene00004875 	Yes 	Yes 		
+smg-1 	WBGene00004879 	Yes 	Yes 	3 	Yes
+smg-2 	WBGene00004880 	Yes 	Yes 	3 	Yes, embryonic lethal
+smgl-1 	WBGene00008990 	Yes 	Yes 	2 	Yes, embryonic lethal
+smn-1 	WBGene00004887 	Yes 	Yes 	4 	Yes, embryonic lethal
+smo-1 	WBGene00004888 	Yes 	Yes 	4 	Yes, embryonic lethal
+smp-1 	WBGene00004889 	Yes 	Yes 		
+smu-1 	WBGene00004895 	Yes 	Yes 		
+snf-1 	WBGene00004900 	Yes 	Yes 	1 	Yes
+snpc-4 	WBGene00001568 	Yes 	Yes 	4 	Yes, embryonic lethal
+snr-2 	WBGene00004915 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+snr-7 	WBGene00004920 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+snrp-27 	WBGene00011035 	Yes 	Yes 		
+snx-27 	WBGene00009116 	Yes 	Yes 	1 	Yes
+snx-3 	WBGene00006503 	Yes 	Yes 	6 	Yes
+sod-2 	WBGene00004931 	Yes 	Yes 		
+spe-5 	WBGene00004959 	Yes 	Yes 		
+spg-7 	WBGene00004978 	Yes 	Yes 	2 	Yes, embryonic lethal
+sqv-5 	WBGene00005023 	Yes 	Yes 		
+stam-1 	WBGene00004109 	Yes 	Yes 		
+stl-1 	WBGene00006061 	Yes 	Yes 		
+stn-1 	WBGene00006062 	Yes 	Yes 		
+suco-1 	WBGene00020031 	Yes 	Yes 	1 	Yes
+sup-17 	WBGene00006324 	Yes 	Yes 	1 	Yes
+sur-2 	WBGene00006349 	Yes 	Yes 	1 	Yes
+sur-6 	WBGene00006352 	Yes 	Yes 	4 	Yes, embryonic lethal
+swsn-9 	WBGene00007256 	Yes 	Yes 	1 	Yes
+syx-7 	WBGene00009478 	Yes 	Yes 		
+T01G9.2 	WBGene00011344 	Yes 	Yes 		
+T01H8.2 (serr-1) 	WBGene00011353 	Yes 	Yes 	2 	Yes
+T03F1.12 	WBGene00020193 	Yes 	Yes 	1 	Yes
+T05E7.3 	WBGene00020259 	Yes 	Yes 		
+T08B2.5 (rbm-5) 	WBGene00020346 	Yes 	Yes 		
+T08G11.1 	WBGene00011629 	Yes 	Yes 		
+T08G11.4 (tgs-1) 	WBGene00011631 	Yes 	Yes 	4 	Yes, embryonic lethal
+T09B4.8 	WBGene00020382 	Yes 	Yes 		
+T10B11.2 (cerk-1) 	WBGene00020398 	Yes 	Yes 	6 	Yes, embryonic lethal
+T10B11.6 	WBGene00020402 	Yes 	Yes 		
+T19B4.3 	WBGene00020557 	Yes 	Yes 		
+T22C1.1 	WBGene00011912 	Yes 	Yes 	1 	Yes
+T22C1.6 	WBGene00011917 	Yes 	Yes 	2 	Yes
+T23D8.3 	WBGene00011944 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+T23G11.4 	WBGene00011969 	Yes 	Yes 	3 	Yes
+T23H2.3 	WBGene00020742 	Yes 	Yes 	4 	Yes, embryonic lethal
+T24B1.1 	WBGene00011975 	Yes 	Yes 		
+T25G3.3 	WBGene00012030 	Yes 	Yes 	6 	Yes, embryonic lethal
+T25G3.4 (gpdh-3) 	WBGene00012031 	Yes 	Yes 		
+T26E3.4 	WBGene00012037 	Yes 	Yes 		
+T27A3.6 (nmrk-1) 	WBGene00020842 	Yes 	Yes 		Yes, embryonic lethal
+T27F6.6 	WBGene00012105 	Yes 	Yes 		
+tads-1 	WBGene00007217 	Yes 	Yes 	4 	Yes, embryonic lethal
+taf-1 	WBGene00006382 	Yes 	Yes 	4 	Yes, embryonic lethal
+taf-11.2 	WBGene00006394 	Yes 	Yes 	1 	Yes
+taf-4 	WBGene00006385 	Yes 	Yes 	4 	Yes, embryonic lethal
+tag-173 (bckd-1B) 	WBGene00006518 	Yes 	Yes 	3 	Yes, embryonic lethal
+tag-179 (algn-10) 	WBGene00007043 	Yes 	Yes 		
+tag-296 	WBGene00018632 	Yes 	Yes 	1 	Yes
+tat-5 	WBGene00009498 	Yes 	Yes 	6 	Yes, embryonic lethal
+tbca-1 	WBGene00021475 	Yes 	Yes 		
+tbcd-1 	WBGene00008887 	Yes 	Yes 	1 	Yes
+tct-1 	WBGene00009122 	Yes 	Yes 	2 	Yes, embryonic lethal
+tdpt-1 	WBGene00013405 	Yes 	Yes 	1 	Yes
+teg-4 	WBGene00019323 	Yes 	Yes 	6 	Yes, embryonic lethal
+thoc-3 	WBGene00009341 	Yes 	Yes 	1 	Yes
+tin-13 	WBGene00006574 	Yes 	Yes 		
+tin-44 	WBGene00020383 	Yes 	Yes 	4 	Yes, embryonic lethal
+tlf-1 	WBGene00006577 	Yes 	Yes 	4 	Yes, embryonic lethal
+tln-1 	WBGene00006771 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+toe-4 	WBGene00012194 	Yes 	Yes 		
+tol-1 	WBGene00006593 	Yes 	Yes 		
+top-1 	WBGene00006595 	Yes 	Yes 	3 	Yes
+tppp-1 	WBGene00016321 	Yes 	Yes 	1 	Yes
+trak-1 	WBGene00020838 	Yes 	Yes 	1 	Yes
+tre-1 	WBGene00006607 	Yes 	Yes 		
+trpp-10 	WBGene00022138 	Yes 	Yes 		
+trpp-8 	WBGene00018512 	Yes 	Yes 		
+ttm-5 	WBGene00013197 	Yes 	Yes 	2 	Yes
+ttx-7 	WBGene00008765 	Yes 	Yes 		
+tub-2 	WBGene00022139 	Yes 	Yes 		
+txl-1 	WBGene00021826 	Yes 	Yes 	2 	Yes
+tyms-1 	WBGene00022455 	Yes 	Yes 	3 	Yes, embryonic lethal
+uba-2 	WBGene00006700 	Yes 	Yes 	6 	Yes, embryonic lethal
+uba-5 	WBGene00020184 	Yes 	Yes 		
+ubc-12 	WBGene00006707 	Yes 	Yes 	4 	Yes, embryonic lethal
+ubc-16 	WBGene00006711 	Yes 	Yes 		
+ubc-25 	WBGene00006720 	Yes 	Yes 	2 	Yes
+ubc-3 	WBGene00006702 	Yes 	Yes 		
+ubl-5 	WBGene00006726 	Yes 	Yes 	1 	Yes
+ubql-1 	WBGene00008852 	Yes 	Yes 		
+ubr-1 	WBGene00016326 	Yes 	Yes 		
+ubxn-1 	WBGene00017733 	Yes 	Yes 		
+uev-1 	WBGene00006730 	Yes 	Yes 		
+unc-101 	WBGene00006829 	Yes 	Yes 		
+unc-108 	WBGene00006833 	Yes 	Yes 		
+unc-11 	WBGene00006751 	Yes 	Yes 		
+unc-37 	WBGene00006773 	Yes 	Yes 	3 	Yes, embryonic lethal
+unc-40 	WBGene00006776 	Yes 	Yes 	1 	Yes
+unc-54 	WBGene00006789 	Yes 	Yes 		
+unc-59 	WBGene00006793 	Yes 	Yes 		
+unc-73 	WBGene00006805 	Yes 	Yes 	1 	Yes
+unc-75 	WBGene00006807 	Yes 	Yes 		
+unc-94 	WBGene00006823 	Yes 	Yes 		
+usp-3 	WBGene00013506 	Yes 	Yes 		
+usp-5 	WBGene00020839 	Yes 	Yes 	4 	Yes
+vab-10 	WBGene00006876 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+vha-10 	WBGene00006919 	Yes 	Yes 	1 	Yes, embryonic lethal
+vha-16 	WBGene00016258 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+viln-1 	WBGene00015691 	Yes 	Yes 		
+vpr-1 	WBGene00018008 	Yes 	Yes 		
+vps-20 	WBGene00022027 	Yes 	Yes 	1 	Yes
+vps-25 	WBGene00012193 	Yes 	Yes 		
+vps-28 	WBGene00013598 	Yes 	Yes 	1 	Yes
+vps-34 	WBGene00006932 	Yes 	Yes 		
+vps-4 	WBGene00021334 	Yes 	Yes 	4 	Yes, embryonic lethal
+vps-51 	WBGene00015176 	Yes 	Yes 		
+W02A11.1 	WBGene00012192 	Yes 	Yes 	1 	Yes
+W02D3.4 	WBGene00020933 	Yes 	Yes 		
+W02D9.2 	WBGene00012208 	Yes 	Yes 		
+W04A4.5 (ints-4) 	WBGene00012234 	Yes 	Yes 	4 	Yes, embryonic lethal
+W08E3.2 (casc-3) 	WBGene00012343 	Yes 	Yes 		
+W09C5.7 (sac-2) 	WBGene00012353 	Yes 	Yes 		
+W09C5.8 (cox-4) 	WBGene00012354 	Yes 	Yes 	4 	Yes, embryonic lethal
+W09G3.6 	WBGene00012369 	Yes 	Yes 		
+W09G3.7 	WBGene00012370 	Yes 	Yes 	1 	Yes
+wdr-12 	WBGene00018893 	Yes 	Yes 		
+wdr-23 	WBGene00008419 	Yes 	Yes 		
+wts-1 	WBGene00007047 	Yes 	Yes 		
+wve-1 	WBGene00006958 	Yes 	Yes 	2 	Yes
+wwp-1 	WBGene00007009 	Yes 	Yes 	2 	Yes, embryonic lethal
+xpa-1 	WBGene00006963 	Yes 	Yes 		
+xpo-2 	WBGene00002079 	Yes 	No (embryonic arrest) 		NA (embryonic lethal)
+Y105E8A.11 	WBGene00013671 	Yes 	Yes 		
+Y105E8A.14 	WBGene00013674 	Yes 	Yes 	3 	Yes
+Y105E8A.2 	WBGene00013667 	Yes 	Yes 		
+Y105E8A.20 	WBGene00013678 	Yes 	Yes 		
+Y105E8A.25 	WBGene00013682 	Yes 	Yes 		
+Y105E8A.3 (slc-30A5) 	WBGene00013668 	Yes 	Yes 		
+Y105E8A.8 (tcab-1) 	WBGene00013669 	Yes 	Yes 		
+Y105E8B.7 	WBGene00013692 	Yes 	Yes 		
+Y106G6D.5 	WBGene00014965 	Yes 	Yes 		
+Y106G6D.7 (rbm-12) 	WBGene00013703 	Yes 	Yes 	2 	Yes
+Y106G6E.4 	WBGene00013708 	Yes 	Yes 		
+Y106G6H.14 	WBGene00013724 	Yes 	Yes 	1 	Yes
+Y106G6H.5 (pdpr-1) 	WBGene00013718 	Yes 	Yes 		
+Y106G6H.8 	WBGene00013720 	Yes 	Yes 		
+Y110A7A.9 	WBGene00022459 	Yes 	Yes 		
+Y119C1B.5 (rnf-145) 	WBGene00022471 	Yes 	Yes 		
+Y18D10A.3 	WBGene00012476 	Yes 	Yes 		
+Y18D10A.9 (ciao-1) 	WBGene00012479 	Yes 	Yes 	2 	Yes, embryonic lethal
+Y23H5B.5 	WBGene00021276 	Yes 	Yes 	4 	Yes
+Y23H5B.6 (ddx-10) 	WBGene00021277 	Yes 	Yes 		Yes, embryonic lethal
+Y34D9A.7 	WBGene00021332 	Yes 	Yes 	5 	Yes
+Y37E3.1 	WBGene00021346 	Yes 	Yes 	1 	Yes
+Y37E3.10 (eif-2alpha) 	WBGene00021351 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+Y39G10AR.8 (eif-2gamma) 	WBGene00021466 	No (larva arrest/sterile) 	No 		NA (larva arrest/sterile)
+Y40B1B.8 (slc-25A46) 	WBGene00012740 	Yes 	Yes 		
+Y44E3A.4 (cdap-2) 	WBGene00021549 	Yes 	Yes 		
+Y44E3A.6 (edc-4) 	WBGene00021551 	Yes 	Yes 	2 	Yes
+Y47D9A.1 	WBGene00021628 	Yes 	Yes 	6 	Yes
+Y47G6A.18 	WBGene00021644 	Yes 	Yes 		
+Y47G6A.7 	WBGene00021637 	Yes 	Yes 		
+Y47H9C.7 (eif-2Bbeta) 	WBGene00012950 	Yes 	Yes 	4 	Yes, embryonic lethal
+Y48G10A.1 	WBGene00013018 	Yes 	Yes 		
+Y48G10A.3 	WBGene00013020 	Yes 	Yes 		
+Y48G1A.4 (nol-14) 	WBGene00021660 	Yes 	Yes 	1 	Yes
+Y48G1C.10 	WBGene00021683 	Yes 	Yes 		
+Y48G1C.12 	WBGene00044345 	Yes 	Yes 		
+Y48G8AL.13 	WBGene00021691 	Yes 	Yes 	1 	Yes
+Y48G8AL.5 (nsun-2) 	WBGene00021686 	Yes 	Yes 		
+Y52B11A.10 	WBGene00013129 	Yes 	Yes 		
+Y52B11C.1 (pigl-1) 	WBGene00013131 	Yes 	Yes 		
+Y54E10A.6 	WBGene00021828 	Yes 	Yes 		
+Y54E10BR.2 	WBGene00021841 	Yes 	Yes 		
+Y54E10BR.3 	WBGene00021842 	Yes 	Yes 		
+Y54E10BR.4 	WBGene00021843 	Yes 	Yes 	2 	Yes
+Y54E5A.5 	WBGene00013200 	Yes 	Yes 		
+Y54E5A.6 (dus-2) 	WBGene00013201 	Yes 	Yes 	1 	Yes
+Y54E5A.7 (gid-1) 	WBGene00013202 	Yes 	Yes 		
+Y63D3A.7 	WBGene00013406 	Yes 	Yes 	2 	Yes
+Y65B4A.1 (cus-2) 	WBGene00022025 	Yes 	Yes 		
+Y65B4A.6 	WBGene00022029 	Yes 	Yes 	4 	Yes
+Y65B4A.8 	WBGene00022031 	Yes 	Yes 		
+Y6B3B.4 	WBGene00012389 	Yes 	Yes 		
+Y6B3B.5 (gpap-1) 	WBGene00012390 	Yes 	Yes 	3 	Yes
+Y6B3B.9 	WBGene00012393 	Yes 	Yes 	3 	Yes
+Y71F9AL.1 	WBGene00022107 	Yes 	Yes 		
+Y71F9B.2 	WBGene00022126 	Yes 	Yes 	6 	Yes
+Y71F9B.6 	WBGene00022128 	Yes 	Yes 		
+Y73E7A.2 (aatf-1) 	WBGene00022269 	Yes 	Yes 	1 	Yes
+Y87G2A.13 	WBGene00013601 	Yes 	Yes 		
+Y87G2A.2 	WBGene00013594 	Yes 	Yes 		
+Y92H12A.2 	WBGene00022358 	Yes 	Yes 	1 	Yes
+Y92H12A.4 (ints-3) 	WBGene00022360 	Yes 	Yes 		
+Y95B8A.8 (zfr-1) 	WBGene00022388 	Yes 	Yes 		
+yop-1 	WBGene00022127 	Yes 	Yes 		
+ZC434.8 	WBGene00013894 	Yes 	Yes 		
+zfh-2 	WBGene00022518 	Yes 	Yes 		
+zhp-3 	WBGene00006976 	Yes 	Yes 	1 	Yes
+ZK265.6 (nol-16) 	WBGene00013958 	Yes 	Yes 		
+ZK524.4 	WBGene00013994 	Yes 	Yes 		
+ZK858.6 	WBGene00014119 	Yes 	Yes 		
+ZK858.7 	WBGene00014120 	Yes 	Yes 	1 	Yes
+ZK909.3 	WBGene00014148 	Yes 	Yes 	1 	Yes
+ZK973.1 	WBGene00022830 	Yes 	Yes 	1 	Yes
+ZK973.11 	WBGene00022836 	Yes 	Yes 	1 	Yes
+ztf-11 	WBGene00009939 	Yes 	Yes 	1 	Yes, embryonic lethal
