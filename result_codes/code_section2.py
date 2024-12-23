@@ -291,18 +291,18 @@ def enrichement_phen(submatrix_gene_phen, gene_array):
 
     return np.array(phen_enrich_fisher_genes_subset), np.array(n_genes_subset_associated_phen, dtype=int), np.array(p_val_subset, dtype=float)
 
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section1_deviations\\'
-# path_save_data='D:\\TODO NUEVO DOCTORADO ANALISIS GENES FENOTIPOS 10 AGOSTO\\D-P_rule_paper\\section1_deviations\\'
+"""
+path_save_data, path_dev, path_phen, path_sim and path_pleio
+are the path that you chose after download the needed files
+"""
+
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
 #1.) We are going to read all the data
-# path_dev='D:\\TODO NUEVO DOCTORADO ANALISIS GENES FENOTIPOS 10 AGOSTO\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-# path_phen='D:\\TODO NUEVO DOCTORADO ANALISIS GENES FENOTIPOS 10 AGOSTO\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-# path_sim='D:\\TODO NUEVO DOCTORADO ANALISIS GENES FENOTIPOS 10 AGOSTO\\D-P_rule_paper\\section1\\'
-
-path_dev='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-path_phen='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-path_sim='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section1\\'
-path_pleio='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\NNMF_justification\\'
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sim='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #1.1.) We read commmon genes
 f=open(path_dev+'genes_id.txt', 'r')
