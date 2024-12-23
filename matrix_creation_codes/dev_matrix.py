@@ -58,10 +58,12 @@ def quality_control(adata):
 
 
 
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'   
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
-#adata = anndata.read('D:\\atlas_gusanos_bien\\packer2019.h5ad')
-adata = anndata.read('C:\\Users\\logslab\\Desktop\\papeles alicia\\packer2019.h5ad')
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+
+#1.) Developmental data: cells x genes matrix
+adata = anndata.read(path_dev+'packer2019.h5ad')
 adata #(cell x genes)
 
 
