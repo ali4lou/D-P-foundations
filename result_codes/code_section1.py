@@ -21,15 +21,11 @@ path_save_data, path_dev, and path_phen
 are the path that you chose after download the needed files
 """
 
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section1\\'
-# path_save_data='D:\\DPrule\\D-P_rule_paper\\section1\\'
-
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
 #1.) We are going to read all the data
-# path_dev='D:\\DPrule\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-# path_phen='D:\\DPrule\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-path_dev='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-path_phen='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\phen_space\\'
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #1.1.) We read commmon genes
 f=open(path_dev+'genes_id.txt', 'r')
