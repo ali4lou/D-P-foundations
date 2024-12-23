@@ -86,20 +86,29 @@ def quality_control(adata):
     
     return adata
     
-# path_save_data='D:\\DPrule\\D-P_rule_paper\\section3\\'
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section3\\'
+"""
+path_save_data, path_dev, path_phen, path_sim and path_pleio
+are the path that you chose after download the needed files
+"""
+
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
+
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sim='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sec2='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #1.) Developmental data: cells x genes matrix
 
-# adata = anndata.read('D:\\atlas_gusanos_bien\\packer2019.h5ad')
-adata = anndata.read('C:\\Users\\logslab\\Desktop\\papeles alicia\\packer2019.h5ad')
+adata = anndata.read(path_dev+'packer2019.h5ad')
 adata #(cell x genes)
 
 adata=quality_control(adata)
 adata  
 
 N_cell=adata.obs.shape
-N_cell=N_cell[0]#numero de celulas
+N_cell=N_cell[0]
 genes_id_sc_data=adata.var['gene_id'].to_numpy()
 N_genes=len(genes_id_sc_data) 
 print("Number of cells:", N_cell)
@@ -134,17 +143,7 @@ for i in range(len(cell_type_without_slash)):
 del cell_type_without_slash, union_cell_type_all_cells
 
 
-#2.) We charge the data
-# path_dev='D:\\DPrule\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-# path_phen='D:\\DPrule\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-# path_pleio='D:\\DPrule\\D-P_rule_paper\\NNMF_justification\\'
-# path_sec2='D:\\DPrule\\D-P_rule_paper\\section2\\'
-
-path_dev='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-path_phen='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\phen_space\\'
-path_pleio='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\NNMF_justification\\'
-path_sec2='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section2\\'
-
+#2.) We read the data
 #2.1.) We read commmon genes
 f=open(path_dev+'genes_id.txt', 'r')
 txt = f.read()
