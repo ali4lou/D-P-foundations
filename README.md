@@ -11,6 +11,9 @@ Source code, datasets, and instructions for reproducing the results of our paper
 `other_analysis` folder - Code to create reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
 
+### Files to download
+`files` folder - Necessary files to execute code
+
 ## References
 
 This repository references the following studies:
