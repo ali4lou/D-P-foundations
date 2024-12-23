@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov  4 14:40:08 2024
-
-@author: Alicia
-
 GO terms associated with pleio and non pleio genes
 """
 
@@ -111,13 +107,17 @@ def enrichement_go(big_matrix_all_genes, submatrix_gene_go, go_list, go_list_ter
 
 
 
+"""
+path_save_data, path_dev, path_sim...
+are the paths that you chose after download the needed files
+"""
 
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sec1_deviations='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sec2='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sim='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
-path_dev='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\GO_association_pleio_non_pleio\\'   
-path_sec2='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section2\\'
-path_sec1_deviations='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section1_deviations\\'
-path_sim='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\section1\\'
 
 f=open(path_dev+'genes_id.txt', 'r')
 txt = f.read()
