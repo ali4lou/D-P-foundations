@@ -24,14 +24,15 @@ from sklearn.decomposition import NMF
 
 #It is needed to download great_library_phenotypes.py
 
-path_save_data='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\phen_space\\'   
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_read='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #1) ANALYSIS OF WORM PHENOTYPE ONTOLOGY (WPO)
 
 #We read the data sheet with the Worm Phenotype Ontology
-# url='https://downloads.wormbase.org/releases/current-production-release/ONTOLOGY/phenotype_ontology.WS290.obo'
-url='C:\\Users\\logslab\\Desktop\\COSAS NUEVAS MAYO - fenotipos, genotipo\\phenotype_ontology.WS290.obo'
+url=path_phen+'phenotype_ontology.WS290.obo'
 graph = obonet.read_obo(url)
 
 #create mappings
@@ -438,8 +439,7 @@ pearsonr(n_phen_per_gene, n_associations)
 
 #7.) We read the intersection of genes between developmental and phenotypic space
 #We build a new phenotype matrix with the selected genes
-#We save that phenotypic matrix
-path_read='C:\\Users\\logslab\\Desktop\\D-P_rule_paper\\matrix_construction\\dev_space\\'   
+#We save that phenotypic matrix  
 f=open(path_read+'genes_id.txt', 'r')
 txt = f.read()
 gene_intersection = txt.split('\n')
