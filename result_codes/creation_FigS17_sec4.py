@@ -88,8 +88,6 @@ def quality_control(adata):
     return adata
 
 
-    
-#10.3.) We are going to plot the dendrogram
 def plot_dendrogram_with_cluster_labels(Z, cluster_labels, distance_threshold):
 
     cluster_assignments = fcluster(Z, t=distance_threshold, criterion='distance')
