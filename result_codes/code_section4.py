@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Section 3 - Phen association with cell types or embryo times
+Section 4 - Phen association with cell types or embryo times
 """
 
 import scanpy as sc
