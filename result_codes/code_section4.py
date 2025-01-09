@@ -93,11 +93,11 @@ are the path that you chose after download the needed files
 
 path_save_data='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
 
-path_dev='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
-path_phen='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
-path_sim='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
-path_pleio='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
-path_sec2='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sim='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_sec2='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #1.) Developmental data: cells x genes matrix
 
