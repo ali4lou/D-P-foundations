@@ -37,6 +37,11 @@ def quality_control(adata):
 
 path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+
+
 #1.) Developmental data: cells x genes matrix
 adata = anndata.read(path_dev+'packer2019.h5ad')
 adata #(cell x genes)
@@ -81,10 +86,6 @@ del cell_type_without_slash, union_cell_type_all_cells
 
 
 #2.) We charge the data
-path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
-path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
-path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
-
 #2.1.) We read commmon genes
 f=open(path_dev+'genes_id.txt', 'r')
 txt = f.read()
