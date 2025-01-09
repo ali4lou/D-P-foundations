@@ -33,16 +33,18 @@ def quality_control(adata):
     sc.pp.filter_cells(adata, min_counts=1000)
     
     return adata
-    
-
-path_save_data='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
 
 
-path_dev='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
-path_phen='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
+"""
+path_save_data, path_dev, path_phen, path_sim and path_pleio
+are the path that you chose after download the needed files
+"""
 
-path_pleio='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
+path_dev='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_pleio='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 
 #1.) Developmental data: cells x genes matrix
