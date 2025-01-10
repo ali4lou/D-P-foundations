@@ -13,7 +13,7 @@ Zou et al. [2008] and the NMF analysis.
 
 ### Files to Download
 
-The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<insert your link here>).
+The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
 
 
 ## Setup and Script Dependencies
