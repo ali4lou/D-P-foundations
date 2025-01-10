@@ -4,8 +4,6 @@ Source code, datasets, and instructions for reproducing the results of our paper
 ### Developmental and phenotypic gene expression matrix 
 `matrix_creation_codes` folder - Code to create the developmental gene expression matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase. 
 
-
-
 ### Reproduction of results 
 `result_codes` folder - Code to reproduce each section of results and their associated supplementary figures.  
 
@@ -13,8 +11,9 @@ Source code, datasets, and instructions for reproducing the results of our paper
 `other_analysis` folder - Code to create reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
 
-### Files to download
-`files` folder - Required files to execute code.
+### Files to Download
+
+The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<insert your link here>).
 
 
 ## Setup and Script Dependencies
