@@ -12,7 +12,7 @@ Source code, datasets, and instructions for reproducing the results of our paper
 Zou et al. [2008] and the NMF analysis. 
 
 ### Files to download
-`files` folder - Necessary files to execute code
+`files` folder - Required files to execute code.
 
 ## References
 
