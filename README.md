@@ -15,7 +15,7 @@ Zou et al. [2008] and the NMF analysis.
 
 The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
 
-In Zenodo, we have included the Packer et al. [2019] scRNA-seq data and the data downloaded from WormBase, which are necessary for creating the developmentañ and phenotypic gene expression matrices.
+In Zenodo, we have included the Packer et al. [2019] scRNA-seq data and the data downloaded from WormBase, which are necessary for creating the developmental and phenotypic gene expression matrices.
 
 
 ## Setup and Script Dependencies
