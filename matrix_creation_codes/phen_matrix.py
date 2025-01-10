@@ -24,7 +24,7 @@ from sklearn.decomposition import NMF
 
 #It is needed to download great_library_phenotypes.py
 
-path_save_data='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
 path_phen='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
 path_read='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
