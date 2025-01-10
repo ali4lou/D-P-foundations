@@ -26,8 +26,8 @@ from sklearn.decomposition import NMF
 
 path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
-path_phen='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
-path_read='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
+path_phen='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
+path_read='PATH_WHERE_IS_DOWNLOADED_THE_DATA'
 
 #1) ANALYSIS OF WORM PHENOTYPE ONTOLOGY (WPO)
 
