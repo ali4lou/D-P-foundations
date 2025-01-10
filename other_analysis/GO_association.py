@@ -325,33 +325,8 @@ GO_bio_process_descrip=np.array(GO_bio_process_descrip)
 np.where(GO_bio_process_descrip=='biological_process')[0]
 
 
-# #5.1.) BIOLOGICAL PROCESS
-# df_pleio_bio_process_go_term, matrix_pleio_bio_process=create_association_matrix_gene_go_term(pleio_genes, GO_bio_process, pathlist_bio_process_unique, GO_bio_process_descrip)
-# df_non_pleio_bio_process_go_term, matrix_non_pleio_bio_process=create_association_matrix_gene_go_term(non_pleio_genes, GO_bio_process, pathlist_bio_process_unique, GO_bio_process_descrip)
-
-# # df_pleio_bio_process_go_term.to_csv(path_save_data+'df_pleio_bio_process_go_term.csv', index=False)
-# # df_non_pleio_bio_process_go_term.to_csv(path_save_data+'df_non_pleio_bio_process_go_term.csv', index=False)
-
-# #it can occur that some annotated genes have an association to molecular or cell comp but not with bio process
-# #that's why, just some genes are associated with biological processes
-
-# #5.2.) MOLECULAR FUNCTION
-# df_pleio_molecular_func_go_term, matrix_pleio_molecular_func=create_association_matrix_gene_go_term(pleio_genes, GO_molecular, pathlist_molecular_unique, GO_molecular_descrip)
-# df_non_pleio_molecular_func_go_term, matrix_non_pleio_molecular_func=create_association_matrix_gene_go_term(non_pleio_genes, GO_molecular, pathlist_molecular_unique, GO_molecular_descrip)
-
-# # df_pleio_molecular_func_go_term.to_csv(path_save_data+'df_pleio_molecular_func_go_term.csv', index=False)
-# # df_non_pleio_molecular_func_go_term.to_csv(path_save_data+'df_non_pleio_molecular_func_go_term.csv', index=False)
-
-
-# #5.3.) CELL COMPONENT
-# df_pleio_cell_comp_go_term, matrix_pleio_cell_comp=create_association_matrix_gene_go_term(pleio_genes, GO_cell_comp, pathlist_cell_comp_unique, GO_cell_comp_descrip)
-# df_non_pleio_cell_comp_go_term, matrix_non_pleio_cell_comp=create_association_matrix_gene_go_term(non_pleio_genes, GO_cell_comp, pathlist_cell_comp_unique, GO_cell_comp_descrip)
-
-# # df_pleio_cell_comp_go_term.to_csv(path_save_data+'df_pleio_cell_comp_go_term.csv', index=False)
-# # df_non_pleio_cell_comp_go_term.to_csv(path_save_data+'df_non_pleio_cell_comp_go_term.csv', index=False)
-
-
-
+#To obtain all the GO terms enriched in each subset of genes, we have to match the genes_analyze variable to the subset of genes we want to analyze.
+#The possible variables are: genes_high_sim_dev, genes_low_sim_dev, genes_high_sim_phen, genes_low_sim_phen, pleio_genes, non_pleio_genes, genes_dP_dev_deviation, genes_Dp_phen_deviation, genes_dp_rule
 genes_analyze=genes_Dp_phen_deviation
 genes_label='genes_Dp_phen_deviation'
 label_analyzed='genes_Dp_P_dev'
