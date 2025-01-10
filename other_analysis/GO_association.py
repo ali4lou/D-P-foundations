@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 GO terms associated with pleio and non pleio genes
+
+We need to download in the same directory and run great_library_phenotypes.py
 """
 
 
