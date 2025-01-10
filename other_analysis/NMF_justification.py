@@ -54,7 +54,7 @@ path_save_data, path_dev and path_phen
 are the paths that you chose after download the needed files
 """
 
-path_save_data='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
+path_save_data='YOUR_PATH_TO_SAVE_DATA'
 
 #1.) We are going to read all the data
 path_dev='C:\\Users\\logslab\\Desktop\\comprobacion_dp_rule\\all_files\\'
