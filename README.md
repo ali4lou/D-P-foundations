@@ -17,7 +17,7 @@ Zou et al. [2008] and the NMF analysis.
 `files` folder - Required files to execute code.
 
 
-### Setup and Script Dependencies
+## Setup and Script Dependencies
 
 Make sure to update the paths at the beginning of each script to match your local setup. Specifically:  
 - Set the path to the location where you want to save your data.  
