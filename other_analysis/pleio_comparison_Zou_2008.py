@@ -70,6 +70,10 @@ pleiotropy_genes_paper=np.array(df['Pleiotropy index'])
 intesec_pleio=np.intersect1d(pleio_genes, pleio_genes_paper)
 
 intesec_genes, ind_genes_1, ind_genes_2 = np.intersect1d(genes, pleio_genes_paper, return_indices=True)
+
+print('Total intersection genes:', len(intesec_genes), '\n')
+print('Pleio intersection genes:', len(intesec_pleio), '\n')
+
 our_pleiotropy_intersec=pleio_score_nnmf[ind_genes_1]
 paper_pleiotropy_intersec=pleiotropy_genes_paper[ind_genes_2]
 
