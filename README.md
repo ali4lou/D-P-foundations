@@ -1,8 +1,8 @@
 # D-P foundations
 Source code, datasets, and instructions for reproducing the results of our paper 'Cell atlases and the Developmental Foundations of the Phenotype'.
 
-### Developmental and phenotypic gene expression matrix 
-`matrix_creation_codes` folder - Code to create the developmental gene expression matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase. 
+### Developmental and phenotypic gene expression matrices 
+`matrix_creation_codes` folder - Code to create the developmental gene expression matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase). 
 
 ### Reproduction of results 
 `result_codes` folder - Code to reproduce each section of results and their associated supplementary figures.  
@@ -14,6 +14,8 @@ Zou et al. [2008] and the NMF analysis.
 ### Files to Download
 
 The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
+
+In Zenodo, we have included the Packer et al. [2019] scRNA-seq data and the data downloaded from WormBase, which are necessary for creating the developmentañ and phenotypic gene expression matrices.
 
 
 ## Setup and Script Dependencies
