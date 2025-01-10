@@ -5,7 +5,7 @@ Source code, datasets, and instructions for reproducing the results of our paper
 `matrix_creation_codes` folder - Code to create the developmental gene expressoin matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase. 
 
 ### Reproduction of results 
-`result_codes` folder - Code to create reproduce each section of results and their associated supplementary figures.  
+`result_codes` folder - Code to reproduce each section of results and their associated supplementary figures.  
 
 ### GO enrichment, pleiotropy comparison and NMF analysis
 `other_analysis` folder - Code to create reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
