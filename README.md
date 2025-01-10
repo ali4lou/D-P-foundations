@@ -17,6 +17,17 @@ Zou et al. [2008] and the NMF analysis.
 `files` folder - Required files to execute code.
 
 
+### Setup and Script Dependencies
+
+Make sure to update the paths at the beginning of each script to match your local setup. Specifically:  
+- Set the path to the location where you want to save your data.  
+- Specify the path to where you have downloaded the files from the **`files`** folder and **Zenodo**.  
+
+This adjustment is necessary to ensure the code runs properly in your environment.  
+
+The scripts **`phen_matrix.py`** and **`GO_assotiation.py`** require that the file **`great_library_phenotypes.py`** has been executed beforehand and is located in the same directory as these scripts. Ensure this step is completed before running them.   
+
+
 ## References
 
 This repository references the following studies:
