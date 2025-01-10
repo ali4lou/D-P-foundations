@@ -187,8 +187,10 @@ for i in range(len(genes_common_total_paper)):
     pleio_nnmf_paper[i]=pleio_score_nnmf[int(ind_gen_total)]
     
 pearsonr(pleio_germ_layer,pleio_morpho)
-pearsonr(pleio_nnmf_paper,pleio_morpho)
-pearsonr(pleio_nnmf_paper, pleio_germ_layer)
+
+print('NMF pleio vs. paper morpho pleio:', pearsonr(pleio_nnmf_paper,pleio_morpho), '\n')
+print('NMF pleio vs. paper germ layer pleio:',pearsonr(pleio_nnmf_paper, pleio_germ_layer), '\n')
+
 
 plt.scatter(pleio_morpho, pleio_germ_layer, s=0.9)    
     
