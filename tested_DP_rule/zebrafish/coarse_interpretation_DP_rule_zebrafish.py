@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 10 10:41:04 2025
-
 Cell type - phenotype association
  in zebrafish with anatomical phenotype ontology
-
-@author: logslab
 """
 
 import scanpy as sc
@@ -723,6 +719,7 @@ sorted_h=H[int(16), ind_h]
 old_phen_sorted=phen[ind_h]
 
 print(old_phen_sorted)
+
 
 
 
