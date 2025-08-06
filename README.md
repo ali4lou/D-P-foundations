@@ -31,7 +31,7 @@ Required files are included in `files.zip` and on Zenodo.
 
 ### Files to Download
 
-The required files to execute the code are contained in a compressed file **`files.zip`**. Also, in **`files_zf.zip`** contains the datasets needed for running the zebrafish analyses.
+The required files to execute the code are contained in a compressed file **`files.zip`**. Also, **`files_zf.zip`** contains the datasets needed for running the zebrafish analyses.
 
 Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/16753814>).
 
