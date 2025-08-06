@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 27 14:22:31 2025
-
-@author: logslab
-
-
 Zebrafish ANATOMICAL ONTOLOGY
 """
 
@@ -374,4 +369,5 @@ for i in range(len(unique_genes)):
 np.savetxt(path+'gene_phen_association_matrix.txt', gene_phen_association_matrix)
 np.savetxt(path+'genes_associated_phen.txt', unique_genes, fmt='%s', delimiter=',')
 np.savetxt(path+'phen_anatomy.txt', zfa_unique_desc_matrix, fmt='%s', delimiter=',')
+
 
