@@ -3,13 +3,16 @@ Source code, datasets, and instructions for reproducing the results of our paper
 
 ### Developmental and phenotypic gene expression matrices 
 `matrix_creation_codes` folder - Code to create the developmental gene expression matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase). 
+Required files are included in `files.zip` and in Zenodo.
 
 ### Reproduction of results 
 `result_codes` folder - Code to reproduce each section of results and their associated supplementary figures.  
+Required files are included in `files.zip` and in Zenodo.
 
 ### GO enrichment, pleiotropy comparison and NMF analysis
 `other_analysis` folder - Code to create reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
+Required files are included in `files.zip` and in Zenodo.
 
 ### Verification of the D-P rule in other data sheets
 
@@ -24,14 +27,16 @@ Zou et al. [2008] and the NMF analysis.
   The necessary data files are also available in `files.zip` and in Zenodo.
 
 - **Zebrafish Analyses**  
-  The `zebrafish/` subfolder contains scripts to verify the D-P rule and a coarse interpretation of the rule in *Danio rerio* (zebrafish).  
+  The `zebrafish/` subfolder contains scripts to verify the D-P rule and a coarse interpretation of the rule in *Danio rerio* (zebrafish). We used the scRNA-seq data from Lange et al. [2024] and the gene-phenotype data from the Zebrafish Information Network (ZFIN).
   Corresponding data files are located in `files_zf.zip` and in Zenodo.
 
 ### Files to Download
 
-The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
+The required files to execute the code are contained in a compressed file **`files.zip`**. Also, in **`files_zf.zip`** contains the datasets needed for running the zebrafish analyses.
 
-In Zenodo, we have included the Packer et al. [2019] scRNA-seq data and the data downloaded from WormBase, which are necessary for creating the developmental and phenotypic gene expression matrices.
+Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
+
+In Zenodo, we have included the Packer et al. [2019] scRNA-seq data and the data downloaded from WormBase, which are necessary for creating the developmental and phenotypic gene expression matrices.For the zebrafish analysis, we have included the Lange et al. [2024] scRNA-seq files. For the verification of the D-P rule using the data from Xiao et al. [2022], we have included the supplementary tables S3 and S4 from their study.
 
 
 ## Setup and Script Dependencies
@@ -58,5 +63,11 @@ This repository references the following studies:
 4. Zou, L., Sriswasdi, S., Ross, B., Missiuro, P. V., Liu, J., & Ge, H. (2008). [Systematic analysis of pleiotropy in *C. elegans* early embryogenesis](https://doi.org/10.1371/journal.pcbi.1000003). *PLoS Computational Biology*, 4(2), e1000003. https://doi.org/10.1371/journal.pcbi.1000003
 
 5. WormBase. [Comprehensive database for *C. elegans* research](https://wormbase.org). Retrieved from [https://wormbase.org](https://wormbase.org).
+
+6. Zebrafish Information Network (ZFIN). [Comprehensive knowledgebase for *Danio rerio* research](https://zfin.org). Retrieved from [https://zfin.org](https://zfin.org)
+  
+7. Lange, M., Granados, A., VijayKumar, S., Bragantini, J., Ancheta, S., Kim, Y. J., Santhosh, S., Borja, M., Kobayashi, H., McGeever, E., Solak, A. C., Yang, B., Zhao, X., Liu, Y., Detweiler, A. M., Paul, S., Theodoro, I., Mekonen, H., Charlton, C., Lao, T., Banks, R., Xiao, S., Jacobo, A., Balla, K., Awayan, K., D'Souza, S., Haase, R., Dizeux, A., Pourquie, O., Gómez-Sjöberg, R., Huber, G., Serra, M., Neff, N., Pisco, A. O., & Royer, L. A. (2024). *A multimodal zebrafish developmental atlas reveals the state-transition dynamics of late-vertebrate pluripotent axial progenitors*. *Cell*, 187(23), 6742–6759.e17. ([https://doi.org/10.1016/j.cell.2024.09.047](https://doi.org/10.1016/j.cell.2024.09.047))
+
+
 
 
