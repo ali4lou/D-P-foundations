@@ -12,7 +12,7 @@ Required files are included in `files.zip` and in Zenodo.
 Required files are included in `files.zip` and in Zenodo.
 
 ### GO enrichment, pleiotropy comparison and NMF analysis
-`other_analysis` folder - Code to create reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
+`other_analysis` folder - Code to reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
 
 Required files are included in `files.zip` and in Zenodo.
