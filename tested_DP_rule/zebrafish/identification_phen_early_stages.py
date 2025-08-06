@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  1 07:55:30 2025
-
-@author: USUARIO
-"""
-
-
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -51,4 +43,5 @@ stage_common, ind_final_stage, j=np.intersect1d(final_stage, stage, return_indic
 
 
 check_phen=phen[ind_final_stage]
+
 
