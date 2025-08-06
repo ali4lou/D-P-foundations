@@ -13,9 +13,9 @@ Required files are included in `files.zip` and on Zenodo.
 `other_analysis` folder - Code to reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024], Zou et al. [2008] and the NMF analysis. 
 Required files are included in `files.zip` and on Zenodo.
 
-### Verification of the D-P rule in other data sheets
+### Verification of the D-P rule in other data sheets - (Supplementary material)
 
-`tested_DP_rule` folder – This directory includes different scripts and datasets used to verify the **D-P rule** in multiple contexts:
+`tested_DP_rule` folder – This directory includes different scripts and datasets used to verify the D-P rule in multiple contexts:
 
 - **Systemic RNAi Studies**  
   The script `dp_rule_systemic_RNAi_data.py` tests the D-P rule using only genes whose phenotype associations originate from publications with more than 100 genes annotated via RNAi (i.e., systemic studies).  
@@ -27,7 +27,7 @@ Required files are included in `files.zip` and on Zenodo.
 
 - **Zebrafish Analyses**  
   The `zebrafish/` subfolder contains scripts to verify the D-P rule and a coarse interpretation of the rule in *Danio rerio* (zebrafish). We used the scRNA-seq data from Lange et al. [2024] and the gene-phenotype data from the Zebrafish Information Network (ZFIN).
-  Corresponding data files are located in `files_zf.zip` and in Zenodo. The scRNA-seq data from Lange et al. [2024] can be found in their web page: [Zebrahub](https://zebrahub.sf.czbiohub.org/data).
+  Corresponding data files are located in `files_zf.zip` and on Zenodo. The scRNA-seq data from Lange et al. [2024] can be found in their web page: [Zebrahub](https://zebrahub.sf.czbiohub.org/data).
 
 ### Files to Download
 
