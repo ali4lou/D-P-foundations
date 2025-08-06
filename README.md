@@ -3,18 +3,15 @@ Source code, datasets, and instructions for reproducing the results of our paper
 
 ### Developmental and phenotypic gene expression matrices 
 `matrix_creation_codes` folder - Code to create the developmental gene expression matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase). 
-
 Required files are included in `files.zip` and in Zenodo.
 
 ### Reproduction of results 
-`result_codes` folder - Code to reproduce each section of results and their associated supplementary figures.  
-
+`result_codes` folder - Code to reproduce each section of results and their associated supplementary figures. 
 Required files are included in `files.zip` and in Zenodo.
 
 ### GO enrichment, pleiotropy comparison and NMF analysis
 `other_analysis` folder - Code to reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
-
 Required files are included in `files.zip` and in Zenodo.
 
 ### Verification of the D-P rule in other data sheets
@@ -31,7 +28,7 @@ Required files are included in `files.zip` and in Zenodo.
 
 - **Zebrafish Analyses**  
   The `zebrafish/` subfolder contains scripts to verify the D-P rule and a coarse interpretation of the rule in *Danio rerio* (zebrafish). We used the scRNA-seq data from Lange et al. [2024] and the gene-phenotype data from the Zebrafish Information Network (ZFIN).
-  Corresponding data files are located in `files_zf.zip` and in Zenodo.
+  Corresponding data files are located in `files_zf.zip` and in Zenodo. The scRNA-seq data from Lange et al. [2024] can be found in their web page: [Zebrahub](https://zebrahub.sf.czbiohub.org/data).
 
 ### Files to Download
 
@@ -39,7 +36,11 @@ The required files to execute the code are contained in a compressed file **`fil
 
 Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
 
-In Zenodo, we have included the Packer et al. [2019] scRNA-seq data and the data downloaded from WormBase, which are necessary for creating the developmental and phenotypic gene expression matrices.For the zebrafish analysis, we have included the Lange et al. [2024] scRNA-seq files. For the verification of the D-P rule using the data from Xiao et al. [2022], we have included the supplementary tables S3 and S4 from their study.
+- `larger_files.zip` includes the Packer et al. [2019] scRNA-seq data and files downloaded from WormBase, which are necessary for generating the developmental and phenotypic gene expression matrices.
+
+- `larger_files_zf.zip` contains additional files required for the zebrafish analyses.
+
+- `xiao.zip` includes Supplementary Tables S3 and S4 from Xiao et al. [2022], used in the verification of the D-P rule.
 
 
 ## Setup and Script Dependencies
@@ -70,6 +71,8 @@ This repository references the following studies:
 6. Zebrafish Information Network (ZFIN). [Comprehensive knowledgebase for *Danio rerio* research](https://zfin.org). Retrieved from [https://zfin.org](https://zfin.org)
   
 7. Lange, M., Granados, A., VijayKumar, S., Bragantini, J., Ancheta, S., Kim, Y. J., Santhosh, S., Borja, M., Kobayashi, H., McGeever, E., Solak, A. C., Yang, B., Zhao, X., Liu, Y., Detweiler, A. M., Paul, S., Theodoro, I., Mekonen, H., Charlton, C., Lao, T., Banks, R., Xiao, S., Jacobo, A., Balla, K., Awayan, K., D'Souza, S., Haase, R., Dizeux, A., Pourquie, O., Gómez-Sjöberg, R., Huber, G., Serra, M., Neff, N., Pisco, A. O., & Royer, L. A. (2024). *A multimodal zebrafish developmental atlas reveals the state-transition dynamics of late-vertebrate pluripotent axial progenitors*. *Cell*, 187(23), 6742–6759.e17. ([https://doi.org/10.1016/j.cell.2024.09.047](https://doi.org/10.1016/j.cell.2024.09.047))
+
+8. ZebraHub. [Multimodal zebrafish developmental atlas – Data Portal](https://zebrahub.sf.czbiohub.org/data). Retrieved from https://zebrahub.sf.czbiohub.org/data
 
 
 
