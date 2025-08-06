@@ -11,6 +11,22 @@ Source code, datasets, and instructions for reproducing the results of our paper
 `other_analysis` folder - Code to create reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
 
+### Verification of the D-P rule in other data sheets
+
+`tested_DP_rule` folder – This directory includes different scripts and datasets used to verify the **D-P rule** in multiple contexts:
+
+- **Systemic RNAi Studies**  
+  The script `dp_rule_systemic_RNAi_data.py` tests the D-P rule using only genes whose phenotype associations originate from publications with more than 100 genes annotated via RNAi (i.e., systemic studies).  
+  The required data files are included in `files.zip` and in Zenodo.
+
+- **Xiao et al. (2022) Dataset**  
+  The script `xiao_dp_rule.py` constructs a new phenotypic space using gene-phenotype associations from Xiao et al. [2022], and evaluates the D-P rule in this context.  
+  The necessary data files are also available in `files.zip` and in Zenodo.
+
+- **Zebrafish Analyses**  
+  The `zebrafish/` subfolder contains scripts to verify the D-P rule and a coarse interpretation of the rule in *Danio rerio* (zebrafish).  
+  Corresponding data files are located in `files_zf.zip` and in Zenodo.
+
 ### Files to Download
 
 The required files to execute the code are contained in a compressed file **`files.zip`**. Additionally, larger files can be found on Zenodo. You can download them using the following link: [Zenodo link](<https://zenodo.org/records/14629057>).
