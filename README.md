@@ -3,16 +3,16 @@ Source code, datasets, and instructions for reproducing the results of our paper
 
 ### Developmental and phenotypic gene expression matrices 
 `matrix_creation_codes` folder - Code to create the developmental gene expression matrix (using the scRNA-seq data from Packer et al. [2019]) and the gene-phenotype association matrix (using the Worm Phenotype Ontology from the WormBase). 
-Required files are included in `files.zip` and in Zenodo.
+Required files are included in `files.zip` and on Zenodo.
 
 ### Reproduction of results 
 `result_codes` folder - Code to reproduce each section of results and their associated supplementary figures. 
-Required files are included in `files.zip` and in Zenodo.
+Required files are included in `files.zip` and on Zenodo.
 
 ### GO enrichment, pleiotropy comparison and NMF analysis
 `other_analysis` folder - Code to reproduce the GO enrichment for each subset of genes, the pleiotropy comparison with the following papers: Xiao et al. [2022], Green et al. [2024],
 Zou et al. [2008] and the NMF analysis. 
-Required files are included in `files.zip` and in Zenodo.
+Required files are included in `files.zip` and on Zenodo.
 
 ### Verification of the D-P rule in other data sheets
 
@@ -20,7 +20,7 @@ Required files are included in `files.zip` and in Zenodo.
 
 - **Systemic RNAi Studies**  
   The script `dp_rule_systemic_RNAi_data.py` tests the D-P rule using only genes whose phenotype associations originate from publications with more than 100 genes annotated via RNAi (i.e., systemic studies).  
-  The required data files are included in `files.zip` and in Zenodo.
+  The required data files are included in `files.zip` and on Zenodo.
 
 - **Xiao et al. (2022) Dataset**  
   The script `xiao_dp_rule.py` constructs a new phenotypic space using gene-phenotype associations from Xiao et al. [2022], and evaluates the D-P rule in this context.  
