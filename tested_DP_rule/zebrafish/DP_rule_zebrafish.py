@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 10 10:41:04 2025
 
 D-P rule in zebrafish with anatomical pehnotype ontology
 
-@author: logslab
 """
 import numpy as np 
 import pandas as pd
@@ -496,6 +494,7 @@ data_DP = pd.DataFrame(data_DP, columns=['Phenotype', '# Genes', 'p-Value'])
 data_Dp_P_dev.to_csv(path_save_data+'phenotipos_enrich_fisher_genes_Dp_deviationP.csv', index=False, sep='\t')
 data_dP_D_dev.to_csv(path_save_data+'phenotipos_enrich_fisher_genes_dP_deviationD.csv', index=False, sep='\t')
 data_DP.to_csv(path_save_data+'phenotipos_enrich_fisher_gene_DP.csv', index=False, sep='\t')
+
 
 
 
